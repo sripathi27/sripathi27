@@ -11,6 +11,23 @@
 
 - 📫 How to reach me **sripathiudayakantha@gmail.com**
 
+
+<p align="center">
+  <a href="https://github.com/ThilinaMadhusanka">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sripathi27
+&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/ThilinaMadhusanka">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sripathi27
+&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sripathi27
+&theme=dark&hide_border=true"/>
+</p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/sripathi udayakanthasripathi udayakantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sripathi udayakanthasripathi udayakantha" height="30" width="40" /></a>
