@@ -3,6 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sripathi27&label=Profile%20views&color=0e75b6&style=flat" alt="sripathi27" /> </p>
 
+<center>
 - 🌱 I’m currently learning **Flutter, Python**
 
 - 🧑‍🎓 I’m an Undergraduate at **NSBM Green University**
@@ -10,6 +11,7 @@
 - 💬 Ask me about **Web development | Front End**
 
 - 📫 How to reach me **sripathiudayakantha@gmail.com**
+</center>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
